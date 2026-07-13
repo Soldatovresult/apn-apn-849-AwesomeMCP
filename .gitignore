@@ -1,0 +1,5 @@
+# Local agent/session state
+.remember/
+
+# macOS
+.DS_Store
