@@ -103,6 +103,7 @@ Maintained in [modelcontextprotocol/servers](https://github.com/modelcontextprot
 
 ### Finance
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
 - [Stripe](https://github.com/stripe/agent-toolkit) — Interact with the Stripe payments API.
 
 ### Science & Research
